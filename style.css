@@ -1,0 +1,15 @@
+.body_background{
+    background-image: url("Background.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: slategray;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#Draw{
+    border-width: 10px;
+    background-color: slategray;
+    border-style: groove;
+}
